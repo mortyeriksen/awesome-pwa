@@ -81,6 +81,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Articles
 
+* [Building a Progressive Web App (PWA) - blog series](http://webagility.com/posts/building-a-progressive-web-app-pwa-blog-series)
 * [Progressive Web Apps: Escaping Tabs Without Losing Our Soul](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/)
 * [Introducing Pokedex.org: a progressive webapp for Pokémon fans](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org)
 * [Progressive web apps have leapfrogged the native install model ... but challenges remain/](http://softwareas.com/progressive-web-apps-have-leapfrogged-the-native-install-model-but-challenges-remain/)
