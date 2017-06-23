@@ -18,6 +18,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 
 ## Apps
 
+* [Office League - PWA for Foosball](https://officeleague.rocks)
 * [A selection of Progressive Web Apps](https://pwa.rocks/)
 * [AirHorner](https://airhorner.com/)
 * [Aliexpress](https://m.aliexpress.com/?tracelog=wwwhome2mobilesitehome)
